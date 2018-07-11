@@ -1,7 +1,7 @@
 ---
 key: KNAR+
 slug: CogniCrypt
-type: workshop
+type: conference
 title: "CogniCrypt: supporting developers in using cryptography"
 authors:
   - krueger
@@ -30,7 +30,7 @@ abstract: >
  generated code into the developer’s workspace. This video demo showcases the main features of CogniCrypt:
  youtube.com/watch?v=JUq5mRHfAWY.
 preprint: CogniCrypt.pdf
-pages:  931-936
+pages: 931-936
 website: https://projects.eclipse.org/projects/technology.cognicrypt
 ---
 
