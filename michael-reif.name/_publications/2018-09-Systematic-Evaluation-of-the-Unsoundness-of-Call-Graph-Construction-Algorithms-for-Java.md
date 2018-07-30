@@ -1,7 +1,7 @@
 ---
 key: RKEM
 slug: JavaCallGraphTests
-type: conference`
+type: conference
 title: "Systematic Evaluation of the Unsoundness of Call Graph Construction Algorithms for Java"
 authors:
   - reif
