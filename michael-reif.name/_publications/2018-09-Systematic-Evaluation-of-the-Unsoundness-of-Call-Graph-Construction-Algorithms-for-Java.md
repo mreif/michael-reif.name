@@ -27,5 +27,6 @@ abstract: >
   WALA shows that WALA currently has better support for new Java 8 features and also for Java Reflection. However,
   in some cases both fail to include expected edges.
 preprint: JCG.pdf
+slides: https://www.slideshare.net/MichaelReif1/systematic-evaluation-of-the-unsoundness-of-call-graph-algorithms-for-java
 artifact_page: https://bitbucket.org/delors/jcg
 ---
