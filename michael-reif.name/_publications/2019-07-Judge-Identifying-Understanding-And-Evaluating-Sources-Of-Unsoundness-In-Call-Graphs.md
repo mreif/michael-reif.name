@@ -10,7 +10,7 @@ authors:
   - helm
   - mezini
 published_in: "Proceedings of the 28th ACM SIGSOFT International Symposium  on  Software Testing and Analysis (to appear)"
-series: ISSTA 2019
+series: ISSTA
 year: 2019
 doi: 10.1145/3293882.3330555
 abstract: >  
