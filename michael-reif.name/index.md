@@ -11,7 +11,7 @@ I am PhD student in the Static Analysis subgroup of the [Software Technology Gro
 * 2008–2011, Philipps-Universität Marburg, bachelor’s degree
 
 My general research interests include static analysis and software security.
-Most recently I am concerned with call-graph consttruction for software libraries where the call graph is suitable to find both:
+Most recently I am concerned with call-graph construction for software libraries where the call graph is suitable to find both:
 security vulnerabilities and software quality issues.
 
 I'm a contributer to the [OPAL][2] project, a static analysis framework for Java bytecode.
