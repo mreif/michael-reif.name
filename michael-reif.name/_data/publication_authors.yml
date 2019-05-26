@@ -1,5 +1,5 @@
 ali:
-  name: ali
+  name: Ali
   firstname: Karim
   mail: karim.ali@ualberta.ca
 amann:
@@ -11,7 +11,7 @@ bodden:
   firstname: Eric
   mail: eric.bodden@uni-paderborn.de
 demmler:
-  name: demmler
+  name: Demmler
   firstname: Daniel
   mail: daniel.demmler@crisp-da.de
 eichberg:
@@ -74,3 +74,7 @@ weinert:
   name: Weinert
   firstname: Christian
   mail: weinert@cs.tu-darmstadt.de
+wickert:
+  name: Wickert
+  firstname: Anna-Katharina
+  mail: wickert@cs.tu-darmstadt.de
