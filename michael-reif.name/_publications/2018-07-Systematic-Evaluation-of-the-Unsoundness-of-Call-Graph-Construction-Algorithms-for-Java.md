@@ -8,10 +8,11 @@ authors:
   - kuebler
   - eichberg
   - mezini
-
-published_in: "Proceedings of the 7th ACM SIGPLAN International Workshop on State Of the Art in Program Analysis"
+published_in: "Proceeding ISSTA '18 Companion Proceedings for the ISSTA/ECOOP 2018 Workshops"
 series: SOAP 2018
 year: 2018
+pages: 107-112
+doi: 10.1145/3236454.3236503
 abstract: >
   Call graphs are at the core of many static analyses ranging from the detection of unused methods to
   advanced control- and data-flow analyses. Therefore, a comprehensive under- standing of the precision

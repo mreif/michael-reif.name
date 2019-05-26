@@ -15,7 +15,6 @@ authors:
   - weinert
   - demmler
   - kamath
-
 published_in: "Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering"
 series: ASE 2017
 year: 2017

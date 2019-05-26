@@ -9,10 +9,11 @@ authors:
   - eichberg
   - reif
   - mezini
-
 published_in: "Proceedings of the 2018 33rd ACM/IEEE International Conference on Automated Software Engineering"
 series: ASE 2018
 year: 2018
+pages: 340-350
+doi: 10.1145/3238147.3238226
 abstract: >
   Analyzing methods in object-oriented programs whether they are
   side-effect free and also deterministic, i.e., mathematically pure, has
