@@ -19,5 +19,6 @@ abstract: >
 
   We show that soundness-relevant features/APIs are frequently used and that support for them differs vastly, up to the point where comparing call graphs computed by the same base algorithms (e.g., RTA) but different frameworks is bogus. We also show that Judge can support users in establishing the soundness of call graphs with reasonable effort.
 preprint: RKE+2019_preprint.pdf
+slides: https://www.slideshare.net/MichaelReif1/judge-identifying-understanding-and-evaluating-sources-of-unsoundness-in-call-graphs
 artifact_page: https://bitbucket.org/delors/jcg
 ---

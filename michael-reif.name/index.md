@@ -21,7 +21,7 @@ Besides my work on OPAL I'm also working on [CogniCrypt][3], an offical Eclipse 
 Committees I served on:
 
 * Program Committee of the [ECOOP ‘19 Doctorial Symposium][4]
-* Program Committee of the [ECOOP ‘19 Mining Challenge][5]
+* Program Committee of the [ECOOP ‘19 Poster Track][5]
 
 [1]: http://www.stg.tu-darmstadt.de/
 [2]: http://www.opal-project.de/
